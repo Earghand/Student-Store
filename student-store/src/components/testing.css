@@ -1,0 +1,54 @@
+.overview {
+    /* color: black; */
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    size: 10px;
+    text-align: center;
+}
+
+
+.overview h1 {
+    /* background: green; */
+    width:500px;
+    display: inline-block;
+    
+    font-size:250%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:grey;
+}
+
+.overview img {
+   
+    height: 500px;
+    width:700px;
+    display:inline-block;
+    
+    /* height: 200px; */
+
+    padding-top:30px;
+    padding-bottom: 10px;
+    border-radius: 15%;
+    /* width: px; */
+}
+
+#heading {
+    border:grey;
+}
+
+.overview h3 {
+    font-size: 30px;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif */
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.overview h4 {
+    text-align:center;
+    font-size: 40px;
+    color: black;
+    border: 1px solid lightgreen;
+    height:50px;
+    width: 200px;
+    margin-left: 45%;
+    background-color: lightgreen;
+    border-radius:25%;
+}
