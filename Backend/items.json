@@ -17,6 +17,78 @@
         "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
         "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
         "price": 1.5
+      },
+      {
+        "id": 3,
+        "name": "Lays",
+        "category": "food",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81vJyb43URL._SL1500_.jpg",
+        "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+        "description": "These Potato Chips taste so good! They're just so amazing! The texture is just perfect!",
+        "price": 2.69
+      },
+      {
+        "id": 4,
+        "name": "Diet Coke",
+        "category": "Drink",
+        "image": "https://3xez6w1iz7ry1bmcx828b3re-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/65d78c9f-4a0a-4452-9a59-fc6e44313c4a.jpg",
+        "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+        "description": "Wow this drink is so good! Did you know it was also 0 calories? Unbelievable, right?",
+        "price": 2.00
+      },
+      {
+        "id": 4,
+        "name": "Oreos",
+        "category": "Food",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/513LGJisOgL.jpg",
+        "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+        "description": "Milk's Favorite Cookie. These cookies taste really good when paired with a good ol glass of milk!",
+        "price": 5.00
+      },
+      {
+        "id": 5,
+        "name": "Poptarts",
+        "category": "Food",
+        "image": "https://i5.walmartimages.com/asr/4172255e-18c8-4cbb-9af1-506b94f25e14.872dba2e63f03388d896fa7ff1ea309e.jpeg",
+        "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+        "description": "Four different flavors of Poptarts! Toast them for an enhanced taste and experience!",
+        "price": 10.00
+      },
+            {
+        "id": 6,
+        "name": "Ritz",
+        "category": "Food",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_2a865064-24a3-4d2c-b10a-c97ad85eff59?wid=488&hei=488&fmt=pjpeg",
+        "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+        "description": "Yummy Ritz crackers taste really good! They taste even better when dipped in cheese!",
+        "price": 2.00
+      },
+      {
+        "id": 8,
+        "name": "Hostess Donettes",
+        "category": "Food",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_3cc5686b-30b9-4909-a4df-688ca322d880?wid=488&hei=488&fmt=pjpeg",
+        "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+        "description": "Mini, powdered donuts, and is also America's #1 donut! ",
+        "price": 3.00
+      },
+      {
+        "id": 9,
+        "name": "Takis",
+        "category": "Food",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_23b8ca3b-f484-439c-a3cb-8208029ccaea?wid=488&hei=488&fmt=pjpeg",
+        "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+        "description": "Hot chips that taste really spicy! Might need some water with these!",
+        "price": 1.50
+      },
+      {
+        "id": 10,
+        "name": "HI-CHEW",
+        "category": "Food",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_55bb07ea-4207-431f-9530-083ff3ee23d4",
+        "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+        "description": "Immensely fruity and intensely chewy candy with multiple flavors!",
+        "price": 2.00
       }
     ]
   }
