@@ -4,7 +4,7 @@
 
 Submitted by: **NAME**
 
-Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Student Store Deployed Site](https://serene-everglades-19915.herokuapp.com/home)
 
 ### Application Features
 
