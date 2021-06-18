@@ -2,7 +2,7 @@
 
 ## Week 2 Assignment: Student Store
 
-Submitted by: **NAME**
+Submitted by: **Elias Arghand**
 
 Deployed Application (optional): [Student Store Deployed Site](https://serene-everglades-19915.herokuapp.com/home)
 
