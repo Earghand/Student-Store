@@ -4,7 +4,7 @@
 
 Submitted by: **Elias Arghand**
 
-Deployed Application (optional): [Student Store Deployed Site](https://serene-everglades-19915.herokuapp.com/home)
+Deployed Application (optional): [Student Store Deployed Site](https://closed-chance.surge.sh/home)
 
 ### Application Features
 
